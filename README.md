@@ -1,4 +1,4 @@
-# NEON CLIENT V7.4
+# NEON CLIENT V7.5
 The Neon client is designed to allow you to access everything in the game effortlessly from a single client.
 We are currently in the development phase; please be patient as we are working flat out.
 
