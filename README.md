@@ -6,7 +6,7 @@ We are currently in the development phase; please be patient as we are working f
 You can access the latest version of the Neon client by copying the code below.
 
 ```lua
-loadstring(game:HttpGet(‘https://raw.githubusercontent.com/PSTRXION/neon-client-en/main/neon-client-en.lua’))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PSTRXION/neon-client-en/main/neon-client-en.lua"))()
 ```
 
 # PASSWORD
